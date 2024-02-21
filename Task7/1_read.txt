@@ -1,0 +1,5 @@
+Hi my name is Ajay E
+I am a Backend Developer
+Trainee in Backend Development at Beinex Consultancy
+Python, Django, Rest API
+ajay
